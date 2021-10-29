@@ -1,4 +1,3 @@
-# adapted from instructions on https://medium.com/@madhukaudantha/dockerize-microservice-3d7562ffcda3
 import hug
 
 @hug.get()
