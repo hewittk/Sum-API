@@ -12,6 +12,7 @@ After the container is running, one can view the API microservice by querying th
 `http://localhost:8000/sum`
 
 To get the sum of two specific numbers determined by the user, the user can use the following address while replacing the values of `num1` and `num2` with their desired values:
+
 http://localhost:8000/sum?num1=6&num2=8
 
 ## References
